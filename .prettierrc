@@ -1,0 +1,15 @@
+{
+  "printWidth": 160,
+  "semi": false,
+  "singleQuote": true,
+  "endOfLine": "auto",
+  "eslintIntegration": false,
+  "ignorePath": ".prettierignore",
+  "jsxSingleQuote": false,
+  "jsxBracketSameLine": false,
+  "bracketSameLine": true,
+  "htmlWhitespaceSensitivity": "ignore",
+  "proseWrap": "preserve",
+  "trailingComma": "none",
+  "arrowParens": "avoid"
+}
