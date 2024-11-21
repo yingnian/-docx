@@ -14,5 +14,9 @@ npm install docxtemplater pizzip jszip-utils file-saver docxtemplater-image-modu
 
 ## demo
 
+#### 数据
+![](./src/assets/code.png)
+#### 模板
 ![](./src/assets/template.png)
+#### 导出word
 ![](./src/assets/demo.png)
